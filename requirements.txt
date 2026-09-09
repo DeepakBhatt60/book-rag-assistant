@@ -1,7 +1,12 @@
 langchain
 langchain-community
 langchain-core
+langchain-text-splitters
 langchain-mistralai
+langchain-huggingface
+
 python-dotenv
-faiss-cpu
+
+chromadb
 pypdf
+sentence-transformers
